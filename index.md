@@ -113,18 +113,26 @@ We appreciate these partnerships and look forward to working with you all!
 
 # Relevant Links
 [TCUP Hub website](https://tcup-hub.org/)
+
 [Slides from Nate's Talk](https://docs.google.com/presentation/d/14Z61ej66yZmThPu4G7hw8K6S9S6h_craSWtK2STjuv4/edit?usp=sharing)
+
 [ESIIL Stars](https://esiil.org/esiil-stars)
+
 [ESIIL Data Short Course](https://esiil.org/data-short-course)
+
 [ESIIL Innovation Summit (2026) - **Next summit is May 5-7, 2027**](https://esiil.org/news-events/2026-esiil-innovation-summit)
+
 [Join the ESIIL mailing list](https://esiil.org/contact-0)
+
 [Earth Data Science Learning Portal](https://earthdatascience.org/)
+
 [Tribal Sustainability Leaders Fellowship Program](https://www.colorado.edu/cnais/tribal-sustainability-leaders-fellowship-program)
 
 ---
 
 # Environmental Data Science Manuscripts
 [Shifting From Spreadsheets to Programming in an Introductory Earth Data Analytics Bootcamp](https://www.tandfonline.com/doi/full/10.1080/00221341.2026.2744251)
+
 [Fostering the Development of Earth Data Skills in a Diverse Community of Online Learners: A Case Study of the Earth Data Science Corps](https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2362886)
 
 ---
