@@ -94,7 +94,7 @@ We appreciate these partnerships and look forward to working with you all!
 
 ---
 
-## **Day 2 (Part 2) - Thursday, November 6** - Mapping with OpenStreetMap
+## **Day 2 (Part 2) - Friday, November 6** - Mapping with OpenStreetMap
 
 > ### 📝 **Assignment:**
 >
