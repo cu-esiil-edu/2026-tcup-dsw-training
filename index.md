@@ -1,5 +1,11 @@
 <img width="1000" height="160" src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-syllabus-2023/main/esiil-earthlab-cires-header.png">
 
+<p align="center">
+  <img src="img/olc-logo_med.jpg" alt="Oglala Lakota College logo" height="80">
+  &nbsp;&nbsp;
+  <img src="img/uttc-logo-primary-color-300x223.png" alt="United Tribes Technical College logo" height="80">
+</p>
+
 <img src="img/processed-9B87A7B5-C6D1-4FBA-A9B4-7E57970C3E17.jpeg">
 
 # Syllabus - TCUP Hub Training 2026
@@ -12,7 +18,9 @@ you to **Earth and Environmental Data Science (EDS)** fundamentals using
 
 This is our first workshop through the TCUP Hub and ESIIL and we're glad to be here
 with you all as the first cohort of participants. This program is funded by the
-**National Science Foundation**.
+**National Science Foundation**, with support from Oglala Lakota College's
+**Thokatakiya** project
+(<a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2225573" target="_blank">**NSF Award # 2225573**</a>).
 
 > ### These TCUP Hub and ESIIL data science workshops aim to meet the following objectives through technical training and applied learning:
 >
@@ -44,12 +52,12 @@ We appreciate these partnerships and look forward to working with you all!
 
 ---
 
-<img style="float: right;" src="https://media.licdn.com/dms/image/v2/C4E03AQE8AD3inIcl8A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1538702518958?e=2147483647&v=beta&t=uZuAQpphZ_pmrUVY-EqyulnfsD3hdLuG_Z-K7cB3QeE" width="125" height="125">
+<img style="float: right;" src="img/TCUP-DSW_cjt_headshot_2026-10-15.jpeg" alt="Charles Jason Tinant" width="125" height="125">
 
 ### **Charles Jason Tinant**
 
 - Professor - Oglala Lakota College
-- <a href="mailto: jtinant@olc.edu" target = "_blank">**Email**</a>
+- <a href="mailto:jtinant@olc.edu" target = "_blank">**Email**</a>
 - <a href="https://cjtinant.github.io/" target="_blank">**Website**</a>
 
 ---
@@ -139,7 +147,10 @@ We appreciate these partnerships and look forward to working with you all!
 
 # Participants
 
-Please add your information below! You can do this by forking this repository, editing the `index.md` file, and submitting a pull request. We'll go through how to do this during the training! 
+Adding yourself is optional. If you'd like to, add only the information you
+choose to share below. You can do this by forking this repository, editing the
+`index.md` file, and submitting a pull request. We'll go through how to do this
+during the training!
 
 | Name                          | Organization          | GitHub Username | GitHub Portfolio Link                                      |
 | ----------------------------- | --------------------- | --------------- | ---------------------------------------------------------- |
