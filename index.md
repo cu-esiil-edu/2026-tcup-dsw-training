@@ -160,3 +160,4 @@ during the training!
 | Renalda Freeman   | Salish Kootenai College      | DrRenF        | [https://DrRenF.github.io/](https://drrenf.github.io/) |
 | Richard Lee | Sisseton Wahpeton College | rleenativestats | [https://rleenativestats.github.io/](https://rleenativestats.github.io/) |
 | Esther Widiasih | University of Hawaiʻi West Oʻahu | estherwidi | [https://estherwidi.github.io/](https://estherwidi.github.io/) |
+| Brandon Woolman | Keweenaw Bay Ojibwa Community College | bwoolman | [https://bwoolman.github.io/](https://bwoolman.github.io/) |
