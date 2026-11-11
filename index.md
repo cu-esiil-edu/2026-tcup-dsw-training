@@ -154,7 +154,7 @@ during the training!
 
 | Name                          | Organization          | GitHub Username | GitHub Portfolio Link                                      |
 | ----------------------------- | --------------------- | --------------- | ---------------------------------------------------------- |
-| Nate Quarderer (instructor)   | ESIIL; Earth Lab      | nquarder        | [https://nquarder.github.io/](https://nquarder.github.io/) |
+| Nate Quarderer (instructor)   | ESIIL; Earth Lab; CU Boulder      | nquarder        | [https://nquarder.github.io/](https://nquarder.github.io/) |
 | Charles Jason Tinant (instructor)   | Oglala Lakota College      | cjtinant        | [https://cjtinant.github.io/](https://cjtinant.github.io/) |
 | Brian Yandell (instructor)   | University of Wisconsin Madison      | byandell        | [https://byandell.github.io/](https://byandell.github.io/) |
 | Renalda Freeman   | Salish Kootenai College      | DrRenF        | [https://DrRenF.github.io/](https://drrenf.github.io/) |
