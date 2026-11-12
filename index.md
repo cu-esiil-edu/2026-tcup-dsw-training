@@ -161,4 +161,6 @@ during the training!
 | Richard Lee | Sisseton Wahpeton College | rleenativestats | [https://rleenativestats.github.io/](https://rleenativestats.github.io/) |
 | Esther Widiasih | University of Hawaiʻi West Oʻahu | estherwidi | [https://estherwidi.github.io/](https://estherwidi.github.io/) |
 | Brandon Woolman | Keweenaw Bay Ojibwa Community College | bwoolman | [https://bwoolman.github.io/](https://bwoolman.github.io/) |
+| Timothy Raymond | Keweenaw Bay Ojibwa Community College | Tdraymon | [https://tdraymon.github.io/](https://tdraymon.github.io/) |
+| Thiagarajan Soundappan | Navajo Technical University | TSK2025  | [https://tsk2025.github.io/](https://tsk2025.github.io/) |
 | Mya Tena | United Tribes Community College | MyaTena22 | [https://myatena22.github.io/](https://myatena22.github.io/) |
