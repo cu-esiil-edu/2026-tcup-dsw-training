@@ -10,21 +10,27 @@
 
 # Syllabus - TCUP Hub Training 2026
 
-Welcome to the NSF TCUP Hub training 2026, led by the Environmental Data Science Innovation and Impact Lab
-(<a href="https://esiil.org/" target="_blank">**ESIIL**</a>). We are excited to have you in class for the next 2 days as we introduce
-you to **Earth and Environmental Data Science (EDS)** fundamentals using
+Welcome to the NSF TCUP Hub training 2026, led by the Environmental Data Science
+Innovation and Impact Lab
+(<a href="https://esiil.org/" target="_blank">**ESIIL**</a>). We are excited to
+have you in class for the next 2 days as we introduce you to **Earth and
+Environmental Data Science (EDS)** fundamentals using
 <a href="https://www.github.com/" target="_blank">**GitHub**</a> and
 <a href="https://www.python.org/" target="_blank">**Python**</a>.
 
-This is our first workshop through the TCUP Hub and ESIIL and we're glad to be here
-with you all as the first cohort of participants. This program is funded by the
-**National Science Foundation**, with support from Oglala Lakota College's
-**Thokatakiya** project
-(<a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2225573" target="_blank">**NSF Award # 2225573**</a>).
+This is our first workshop through the TCUP Hub and ESIIL and we're glad to be
+here with you all as the first cohort of participants. This program is funded by
+the **National Science Foundation**, with support from United Tribes Technical
+College's **TCUP Hub** project
+(<a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2437447" target="_blank">**NSF
+Award # 2437447**</a>) and Oglala Lakota College's **Thokatakiya** project
+(<a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2225573" target="_blank">**NSF
+Award # 2225573**</a>).
 
 > ### These TCUP Hub and ESIIL data science workshops aim to meet the following objectives through technical training and applied learning:
 >
-> - Train the **next generation** of Earth and Environmental Data Science educators
+> - Train the **next generation** of Earth and Environmental Data Science
+>   educators
 > - Answer relevant **Earth/Environmental science** questions
 > - **Develop Pathways** into the EDS workforce
 > - **Build capacity** to teach & learn EDS
@@ -47,7 +53,7 @@ We appreciate these partnerships and look forward to working with you all!
 ### **Nate Quarderer**
 
 - Education Director - Earth Lab; ESIIL
-- <a href = "mailto: naqu1888@colorado.edu" target="_blank">**Email** </a>
+- <a href = "mailto:naqu1888@colorado.edu" target="_blank">**Email** </a>
 - <a href = "https://earthlab.colorado.edu/our-team/nathan-quarderer" target="_blank">**Website**</a>
 
 ---
@@ -67,7 +73,7 @@ We appreciate these partnerships and look forward to working with you all!
 ### **Brian Yandell**
 
 - Professor Emeritus - University of Wisconsin Madison
-- <a href="mailto: brian.yandell@wisc.edu" target = "_blank">**Email**</a>
+- <a href="mailto:brian.yandell@wisc.edu" target = "_blank">**Email**</a>
 - <a href="https://byandell.github.io/" target="_blank">**Website**</a>
 
 # Curriculum
@@ -116,10 +122,10 @@ We appreciate these partnerships and look forward to working with you all!
 > - [GitHub Codespaces](https://docs.github.com/en/codespaces)
 > - [OpenStreetMap](https://www.openstreetmap.org/)
 
-
 ---
 
 # Relevant Links
+
 [TCUP Hub website](https://tcup-hub.org/)
 
 [Slides from Nate's Talk](https://docs.google.com/presentation/d/14Z61ej66yZmThPu4G7hw8K6S9S6h_craSWtK2STjuv4/edit?usp=sharing)
@@ -139,6 +145,7 @@ We appreciate these partnerships and look forward to working with you all!
 ---
 
 # Environmental Data Science Manuscripts
+
 [Shifting From Spreadsheets to Programming in an Introductory Earth Data Analytics Bootcamp](https://www.tandfonline.com/doi/full/10.1080/00221341.2026.2744251)
 
 [Fostering the Development of Earth Data Skills in a Diverse Community of Online Learners: A Case Study of the Earth Data Science Corps](https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2362886)
@@ -152,16 +159,16 @@ choose to share below. You can do this by forking this repository, editing the
 `index.md` file, and submitting a pull request. We'll go through how to do this
 during the training!
 
-| Name                          | Organization          | GitHub Username | GitHub Portfolio Link                                      |
-| ----------------------------- | --------------------- | --------------- | ---------------------------------------------------------- |
-| Nate Quarderer (instructor)   | ESIIL; Earth Lab; CU Boulder      | nquarder        | [https://nquarder.github.io/](https://nquarder.github.io/) |
-| Charles Jason Tinant (instructor)   | Oglala Lakota College      | cjtinant        | [https://cjtinant.github.io/](https://cjtinant.github.io/) |
-| Brian Yandell (instructor)   | University of Wisconsin Madison      | byandell        | [https://byandell.github.io/](https://byandell.github.io/) |
-| Renalda Freeman   | Salish Kootenai College      | DrRenF        | [https://DrRenF.github.io/](https://drrenf.github.io/) |
-| Richard Lee | Sisseton Wahpeton College | rleenativestats | [https://rleenativestats.github.io/](https://rleenativestats.github.io/) |
-| Esther Widiasih | University of Hawaiʻi West Oʻahu | estherwidi | [https://estherwidi.github.io/](https://estherwidi.github.io/) |
-| Brandon Woolman | Keweenaw Bay Ojibwa Community College | bwoolman | [https://bwoolman.github.io/](https://bwoolman.github.io/) |
-| Timothy Raymond | Keweenaw Bay Ojibwa Community College | Tdraymon | [https://tdraymon.github.io/](https://tdraymon.github.io/) |
-| Thiagarajan Soundappan | Navajo Technical University | TSK2025  | [https://tsk2025.github.io/](https://tsk2025.github.io/) |
-| Mya Tena | United Tribes Technical College | MyaTena22 | [https://myatena22.github.io/](https://myatena22.github.io/) |
-| Chris Nicolai | United Tribes Technical College | CANicolai | [https://canicolai.github.io/](https://canicolai.github.io/) |
+| Name                              | Organization                          | GitHub Username | GitHub Portfolio Link                                                    |
+| --------------------------------- | ------------------------------------- | --------------- | ------------------------------------------------------------------------ |
+| Nate Quarderer (instructor)       | ESIIL; Earth Lab; CU Boulder          | nquarder        | [https://nquarder.github.io/](https://nquarder.github.io/)               |
+| Charles Jason Tinant (instructor) | Oglala Lakota College                 | cjtinant        | [https://cjtinant.github.io/](https://cjtinant.github.io/)               |
+| Brian Yandell (instructor)        | University of Wisconsin Madison       | byandell        | [https://byandell.github.io/](https://byandell.github.io/)               |
+| Renalda Freeman                   | Salish Kootenai College               | DrRenF          | [https://DrRenF.github.io/](https://drrenf.github.io/)                   |
+| Richard Lee                       | Sisseton Wahpeton College             | rleenativestats | [https://rleenativestats.github.io/](https://rleenativestats.github.io/) |
+| Esther Widiasih                   | University of Hawaiʻi West Oʻahu      | estherwidi      | [https://estherwidi.github.io/](https://estherwidi.github.io/)           |
+| Brandon Woolman                   | Keweenaw Bay Ojibwa Community College | bwoolman        | [https://bwoolman.github.io/](https://bwoolman.github.io/)               |
+| Timothy Raymond                   | Keweenaw Bay Ojibwa Community College | Tdraymon        | [https://tdraymon.github.io/](https://tdraymon.github.io/)               |
+| Thiagarajan Soundappan            | Navajo Technical University           | TSK2025         | [https://tsk2025.github.io/](https://tsk2025.github.io/)                 |
+| Mya Tena                          | United Tribes Technical College       | MyaTena22       | [https://myatena22.github.io/](https://myatena22.github.io/)             |
+| Chris Nicolai                     | United Tribes Technical College       | CANicolai       | [https://canicolai.github.io/](https://canicolai.github.io/)             |
