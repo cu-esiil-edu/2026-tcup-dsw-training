@@ -1,0 +1,47 @@
+# ── Credentials — NEVER commit these ─────────────────────────────────
+.Renviron
+.env
+.env.*
+*.env
+**/secrets.*
+hf_*
+sk-ant-*
+
+# ── Python virtual environment ────────────────────────────────────────
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# ── R ────────────────────────────────────────────────────────────────
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# ── macOS ────────────────────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+thumbs.db
+Thumbs.db
+
+# ── Audio files ───────────────────────────────────────────────────────
+*.wav
+*.mp3
+*.m4a
+*.ogg
+*.flac
+
+# ── Model cache ───────────────────────────────────────────────────────
+.cache/
+models/
+
+# ── Scratch files ───────────────────────────────────────────────────────
+scratch.md
+
