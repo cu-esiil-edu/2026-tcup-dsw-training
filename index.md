@@ -1,7 +1,7 @@
 <img width="1000" height="160" src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-syllabus-2023/main/esiil-earthlab-cires-header.png">
 
 <p align="center">
-  <img src="img/olc-logo_med.jpg" alt="Oglala Lakota College logo" height="80">
+  <img src="img/olc-logo_med.jpg" alt="Oglala Lakota College logo" height="70">
   &nbsp;&nbsp;
   <img src="img/uttc-logo-primary-color-300x223.png" alt="United Tribes Technical College logo" height="80">
 </p>
