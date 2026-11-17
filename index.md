@@ -8,7 +8,7 @@
 
 <img src="img/processed-9B87A7B5-C6D1-4FBA-A9B4-7E57970C3E17.jpeg">
 
-# Syllabus - TCUP Hub Training 2026
+## Syllabus - TCUP Hub Training 2026
 
 Welcome to the NSF TCUP Hub training 2026, led by the Environmental Data Science
 Innovation and Impact Lab
@@ -27,7 +27,7 @@ Award # 2437447**</a>) and Oglala Lakota College's **Thokatakiya** project
 (<a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2225573" target="_blank">**NSF
 Award # 2225573**</a>).
 
-> ### These TCUP Hub and ESIIL data science workshops aim to meet the following objectives through technical training and applied learning:
+> ### These TCUP Hub and ESIIL data science workshops aim to meet the following objectives through technical training and applied learning
 >
 > - Train the **next generation** of Earth and Environmental Data Science
 >   educators
@@ -46,7 +46,7 @@ Lab**</a>.
 
 We appreciate these partnerships and look forward to working with you all!
 
-# Meet Our Team
+## Meet Our Team
 
 <img style="float: right;" src="https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/profile.png?itok=81I5qGge" width="125" height="125">
 
@@ -84,7 +84,7 @@ We appreciate these partnerships and look forward to working with you all!
 >
 > - Create portfolio page using GitHub pages and Markdown
 > - Add name, GitHub username, link to profile to Course GitHub repository
-
+>
 > ### 📚 **Readings:**
 >
 > - [Markdown guide](https://www.markdownguide.org/basic-syntax/)
