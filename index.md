@@ -8,7 +8,7 @@
 
 <img src="img/processed-9B87A7B5-C6D1-4FBA-A9B4-7E57970C3E17.jpeg">
 
-# Syllabus - TCUP Hub Training 2026
+## Syllabus - TCUP Hub Training 2026
 
 Welcome to the NSF TCUP Hub training 2026, led by the Environmental Data Science
 Innovation and Impact Lab
@@ -27,7 +27,7 @@ Award # 2437447**</a>) and Oglala Lakota College's **Thokatakiya** project
 (<a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2225573" target="_blank">**NSF
 Award # 2225573**</a>).
 
-> ### These TCUP Hub and ESIIL data science workshops aim to meet the following objectives through technical training and applied learning:
+> ### These TCUP Hub and ESIIL data science workshops aim to meet the following objectives through technical training and applied learning
 >
 > - Train the **next generation** of Earth and Environmental Data Science
 >   educators
@@ -46,7 +46,7 @@ Lab**</a>.
 
 We appreciate these partnerships and look forward to working with you all!
 
-# Meet Our Team
+## Meet Our Team
 
 <img style="float: right;" src="https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/profile.png?itok=81I5qGge" width="125" height="125">
 
@@ -84,7 +84,7 @@ We appreciate these partnerships and look forward to working with you all!
 >
 > - Create portfolio page using GitHub pages and Markdown
 > - Add name, GitHub username, link to profile to Course GitHub repository
-
+>
 > ### 📚 **Readings:**
 >
 > - [Markdown guide](https://www.markdownguide.org/basic-syntax/)
@@ -116,7 +116,7 @@ We appreciate these partnerships and look forward to working with you all!
 >
 > - Create an interactive map of your city, campus, or place that interests you
 > - Add your map to GitHub portfolio page
-
+>
 > ### 📚 **Readings:**
 >
 > - [GitHub Codespaces](https://docs.github.com/en/codespaces)
@@ -124,27 +124,25 @@ We appreciate these partnerships and look forward to working with you all!
 
 ---
 
-# Relevant Links
+## 🗂️ Workshop agenda and slide decks
 
-[TCUP Hub website](https://tcup-hub.org/)
+- [Final agenda](https://drive.google.com/file/d/1p57gMIIR6Q6hK4sbHoaWKrzy1bxPCxir/view?usp=drive_link)
+- [Nate's talk](https://drive.google.com/file/d/1ziBN0UIenTA4HZqINUrFvFqGCotbxcZk/view?usp=drive_link)
+- [Sean Dudley's talk](https://drive.google.com/file/d/1_g4MHnYLSdwHXWmhLm-Drvavdd8yNU10/view?usp=drive_link)
 
-[Slides from Nate's Talk](https://docs.google.com/presentation/d/14Z61ej66yZmThPu4G7hw8K6S9S6h_craSWtK2STjuv4/edit?usp=sharing)
+## 🔗 Relevant Links
 
-[ESIIL Stars](https://esiil.org/esiil-stars)
-
-[ESIIL Data Short Course](https://esiil.org/data-short-course)
-
-[ESIIL Innovation Summit (2026) - **Next summit is May 5-7, 2027**](https://esiil.org/news-events/2026-esiil-innovation-summit)
-
-[Join the ESIIL mailing list](https://esiil.org/contact-0)
-
-[Earth Data Science Learning Portal](https://earthdatascience.org/)
-
-[Tribal Sustainability Leaders Fellowship Program](https://www.colorado.edu/cnais/tribal-sustainability-leaders-fellowship-program)
+- [TCUP Hub website](https://tcup-hub.org/)
+- [ESIIL Stars](https://esiil.org/esiil-stars)
+- [ESIIL Data Short Course](https://esiil.org/data-short-course)
+- [ESIIL Innovation Summit (2026) - **Next summit is May 5-7, 2027**](https://esiil.org/news-events/2026-esiil-innovation-summit)
+- [Join the ESIIL mailing list](https://esiil.org/contact-0)
+- [Earth Data Science Learning Portal](https://earthdatascience.org/)
+- [Tribal Sustainability Leaders Fellowship Program](https://www.colorado.edu/cnais/tribal-sustainability-leaders-fellowship-program)
 
 ---
 
-# Environmental Data Science Manuscripts
+## 📚 Environmental Data Science Manuscripts
 
 [Shifting From Spreadsheets to Programming in an Introductory Earth Data Analytics Bootcamp](https://www.tandfonline.com/doi/full/10.1080/00221341.2026.2744251)
 
